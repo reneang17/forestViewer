@@ -1,4 +1,4 @@
-# PDF Viewer Frontend
+# ForestViewer
 
 A modern web application showcasing a PDF viewer frontend design built with PDF.js. This project demonstrates a clean, user-friendly interface for viewing PDF documents in a web browser.
 
